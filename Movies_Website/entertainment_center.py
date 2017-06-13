@@ -1,8 +1,8 @@
 # use the class we defined in the media file
 # keep class definitions in their own file
 
-import media
 import fresh_tomatoes
+import media
 
 toy_story = media.Movie("Toy Story",
                         "A story about a boy and his toys that come to life.",
