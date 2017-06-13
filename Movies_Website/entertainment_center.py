@@ -26,4 +26,4 @@ nemo = media.Movie("Finding Nemo",
 
 
 movies = [toy_story,avatar,batman,nemo]
-fresh_tomatoes.open_movies_page(movies)
+#fresh_tomatoes.open_movies_page(movies)
